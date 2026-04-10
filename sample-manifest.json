@@ -1,0 +1,12 @@
+{
+  "export_job_id": "a8e7a0ba-2e83-42bd-a7d0-8506ce4e853f",
+  "id_short": 125944,
+  "published_at": "2026-04-10T19:08:50Z",
+  "repo_name": "tech-ready-restaurants-in-arkansas-us-sample-125944",
+  "sample_asset_name": "beamstation_125944_restaurants-us-ar_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/125944/beamstation_125944_restaurants-us-ar_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "ed6420544ea8450c69a890486055d7eb280fb2aac8af300e21b2cfc1fda8bc2e",
+  "sample_size_bytes": 19264,
+  "total_records": 6
+}
