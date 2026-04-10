@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in Arkansas, US",
+  "export_job_id": "a8e7a0ba-2e83-42bd-a7d0-8506ce4e853f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 125944,
+  "location_name": "Arkansas",
+  "location_type": "state",
+  "repo_name": "tech-ready-restaurants-in-arkansas-us-sample-125944",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/125944/beamstation_125944_restaurants-us-ar_SAMPLE_DIST.csv",
+  "sample_pct": 16.67,
+  "sample_records": 1,
+  "sample_sha256": "ed6420544ea8450c69a890486055d7eb280fb2aac8af300e21b2cfc1fda8bc2e",
+  "sample_size_bytes": 19264,
+  "total_records": 6,
+  "updated_at": "2026-04-08T04:29:49.043448+00:00"
+}
