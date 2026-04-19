@@ -9,9 +9,9 @@
 | Dataset ID | `125944` |
 | Location | Arkansas |
 | Category | Restaurants |
-| Full dataset size | 6 records |
-| Free sample size | 1 records (16.67%) |
-| Last export | 2026-04-08T04:29:49.043448+00:00 |
+| Full dataset size | 5 records |
+| Free sample size | 1 records (20.0%) |
+| Last export | 2026-04-15T09:00:50.523227+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-arkansas-us-sample-125944/releases/download/sample-latest/beamstation_125944_restaurants-us-ar_SAMPLE_DIST.csv) |
 
 ## What is in this sample
